@@ -1,0 +1,7 @@
+─────────────────────────── Results for GenericDataset Sequence velodyne ───────────────────────────
++-------------------+-------+-------+
+|            Metric | Value | Units |
++===================+=======+=======+
+| Average Frequency |  51   | Hz    |
+|   Average Runtime |  20   | ms    |
++-------------------+-------+-------+
